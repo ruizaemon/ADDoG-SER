@@ -14,13 +14,13 @@
 
 ### Python packages
 
-- torch
-- numpy
-- librosa
-- pandas
-- matplotlib
-- seaborn
-- ipython
+- **torch**
+- **numpy**
+- **librosa**
+- **pandas**
+- **matplotlib**
+- **seaborn**
+- **ipython**
 
 ### Dataset
 
