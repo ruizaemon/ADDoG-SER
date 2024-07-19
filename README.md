@@ -6,9 +6,13 @@
 - In the study of speech emotion recognition (SER), obtaining labelled speech data across various domains is very costly
 - Machine learning techniques such as domain generalisation and domain adaptation is employed to bridge this gap between different domains
 
-- This repository builds an SER model using adversarial discriminative domain generalization (ADDoG), obtaining a ~10% increase in test accuracy
+- This repository builds a cross-domain SER model using adversarial discriminative domain generalization (ADDoG), obtaining a ~10% increase in test accuracy
 
 ## Requirements
+- **Python**
+
+### Python packages
+- 
 
 ### Dataset
 
