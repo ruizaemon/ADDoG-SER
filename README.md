@@ -14,7 +14,13 @@
 
 ### Python packages
 
-- 
+- torch
+- numpy
+- librosa
+- pandas
+- matplotlib
+- seaborn
+- ipython
 
 ### Dataset
 
@@ -51,6 +57,5 @@ In this repository, a comparison of test accuracy is made between two models:
 - [CNN](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 - [ADDoG](https://doi.org/10.48550/arXiv.1903.12094)
 
-### CNN
-
+## Result overview
 
