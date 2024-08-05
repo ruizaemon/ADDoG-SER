@@ -58,4 +58,3 @@ In this repository, a comparison of test accuracy is made between two models:
 - [ADDoG](https://doi.org/10.48550/arXiv.1903.12094)
 
 ## Result overview
-
